@@ -1,0 +1,20 @@
+{
+    "age": [
+        {
+            "pred": 37
+        }
+    ],
+    "code": 0,
+    "metadata": {
+        "elapsedTime": 0.702756521,
+        "serverTime": "2024-12-06T08:13:54.848981",
+        "ctx": {
+            "userIp": "178.127.201.250"
+        }
+    },
+    "sessionId": "a9304f37-00ac-4fd5-b316-bd186ea147d6",
+    "status": 0,
+    "tag": "a9304f37-00ac-4fd5-b316-bd186ea147d6",
+    "transactionId": "c566ff67-0758-4b89-96e5-206e6b95755b",
+    "type": 0
+}
